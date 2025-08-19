@@ -1,6 +1,5 @@
 # CareerConnect – Job Portal
 
-![Job Portal Demo](https://via.placeholder.com/600x300?text=CareerConnect+Job+Portal)
 
 CareerConnect is a full-stack job portal platform connecting job seekers and employers. It is built using **Java**, **Spring Boot**, **React.js**, and **MySQL**.
 
